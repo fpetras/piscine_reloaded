@@ -6,7 +6,7 @@
 /*   By: fpetras <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/11/06 18:09:00 by fpetras           #+#    #+#             */
-/*   Updated: 2017/11/06 18:45:55 by fpetras          ###   ########.fr       */
+/*   Updated: 2017/11/06 18:52:09 by fpetras          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,8 +15,8 @@
 
 int		main(int ac, char **av)
 {
-	int fd;
-	char buf;
+	int		fd;
+	char	buf;
 
 	if (ac == 1)
 	{
